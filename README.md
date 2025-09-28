@@ -1,6 +1,32 @@
 # hello_world
 
 A new Flutter project.
+1. Screenshot Aplikasi Pertama Flutter
+![Screenshot hello_world](images/01.png)
+
+2. Praktikum Text Widget
+![Screenshot hello_world](images/02.png)
+
+3. Praktikum Image Widget
+![Screenshot hello_world](images/03.png)
+
+4. Praktikum Cupertino Button
+![Screenshot hello_world](images/04.png)
+
+5. Praktikum Floating Action Button
+![Screenshot hello_world](images/05.png)
+
+6. Praktikum Scaffold Widget
+![Screenshot hello_world](images/06.png)
+
+7. Praktikum Dialog Widget
+![Screenshot hello_world](images/07.png)
+
+8. Praktikum Input dan Selection Widget
+![Screenshot hello_world](images/08.png)
+
+9. Praktikum Date and Time Picker
+![Screenshot hello_world](images/09.png)
 
 ## Getting Started
 
