@@ -4,7 +4,7 @@ A new Flutter project.
 1. Screenshot Aplikasi Pertama Flutter
 ![Screenshot hello_world](images/01.png)
 
-2. Praktikum Text Widget
+2. Praktikum Text Widget 
 ![Screenshot hello_world](images/02.png)
 
 3. Praktikum Image Widget
